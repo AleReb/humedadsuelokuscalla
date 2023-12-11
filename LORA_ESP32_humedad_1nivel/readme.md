@@ -6,12 +6,12 @@ Este sketch de Arduino está diseñado para el ESP32, integrándolo con un módu
 ## Hardware Requerido
 - ESP32 (TTGO LoRa32 V2.1.6)
 - Módulo LoRa
-- [Otros componentes como pantalla o tarjeta SD si son utilizados]
+
 
 ## Configuración del Hardware
 Descripción de cómo conectar los componentes hardware, incluyendo:
 - Conexiones del módulo LoRa al ESP32
-- [Otras conexiones si son necesarias]
+
 
 ## Instalación y Uso
 1. Instala el entorno de desarrollo de Arduino.
@@ -21,7 +21,7 @@ Descripción de cómo conectar los componentes hardware, incluyendo:
 5. Sube el sketch al ESP32.
 
 ## Contribuciones
-[Invita a otros a contribuir y describe cómo pueden hacerlo.]
+a quien quiera revisar y ayudar arebolledo@udd.cl
 
 ## Licencia
-[Información sobre la licencia bajo la cual se distribuye el proyecto.]
+creative comons estandar
