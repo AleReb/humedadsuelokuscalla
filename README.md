@@ -1,4 +1,5 @@
 # humedadsuelokuscalla
+Version final
 # Descripción General
 Este proyecto está enfocado en medir la humedad del suelo usando un ESP32. Su aplicación es crucial en áreas como la agricultura y el monitoreo ambiental, facilitando el uso eficiente del agua y mejorando la gestión de cultivos.
 
